@@ -1,5 +1,4 @@
-import { ButtonProps } from "@/interfaces";
-
+import { ButtonProps } from "@/interface";
 
 const Button = ({
   buttonLabel,
