@@ -1,7 +1,6 @@
 # alx-project-0x03-setup
 
 ## Splash App – Shared Layout and Routing in Next.js
-### Project Description
 - This project demonstrates how to implement shared layouts, modular components, custom fonts, and imperative routing in a modern Next.js application using TypeScript, Tailwind CSS, and React Icons. The goal is to apply best practices such as the DRY (Don't Repeat Yourself) principle, clean component design, and reusable layouts, while building a functional foundation for a multi-featured AI platform.
 
 ## Learning Objectives
@@ -35,13 +34,13 @@ alx-project-0x03/
  └── tsconfig.json
 
 ## Tasks and Implementation Guide
-0. Implementing a Shared Layout
-✅ Objective: Use a common layout wrapper for all pages.
-✅ Components:
+*0. Implementing a Shared Layout*
+ * ✅ Objective: 
+   * Use a common layout wrapper for all pages.
+ * ✅ Components:
+   * Header.tsx – App branding + Sign In/Sign Up buttons
+   * Footer.tsx – Social media icons + Useful links
+   * Layout.tsx – Wraps pages in shared UI
 
-Header.tsx – App branding + Sign In/Sign Up buttons
-Footer.tsx – Social media icons + Useful links
-Layout.tsx – Wraps pages in shared UI
 Install:
-
 npm install react-icons
